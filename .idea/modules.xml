@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/HTML,CSS.iml" filepath="$PROJECT_DIR$/.idea/HTML,CSS.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSript.iml" filepath="$PROJECT_DIR$/.idea/JavaSript.iml" />
+>>>>>>> 7ab57f03ef0563fbc9bbdb87eb5126184b24845a
     </modules>
   </component>
 </project>

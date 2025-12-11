@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (HTML,CSS)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (HTML,CSS)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (JavaSript)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (JavaSript)" project-jdk-type="Python SDK" />
+>>>>>>> 7ab57f03ef0563fbc9bbdb87eb5126184b24845a
 </project>

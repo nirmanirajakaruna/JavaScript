@@ -5,22 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35165c51-bab7-4cfd-a8a0-eddffa5be351" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML,CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/img/home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/img/map.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/img/product1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/img/product2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/img/product3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web development/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JavaSript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 2/t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 2/t.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 3/t3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 3/t3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 4/t4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 4/t4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 5/t5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 5/t5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 6/t6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Task 6/t6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 1/t1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 1/t1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 2/t2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 2/t2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 3/t3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 3/t3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 4/t4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 4/t4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 5/t5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 5/t5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 6/t6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 6/t6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 7/t7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 7/t7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 1/t1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 1/t1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 2/t2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 2/t2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 3/t3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 3/t3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 4/t4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 4/t4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 5/t5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 5/t5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 6/t6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/Task 6/t6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 1/t1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 2/t2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 2/t2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 3/t3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 3/t3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 4/t4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 4/Task 4/t4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +70,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nirmanirajakaruna"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nirmanirajakaruna/JavaScript.git",
+    "accountId": "c3138b5d-dce7-4886-9b15-20a87c6aef55"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -54,7 +99,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "Merging main"
   }
 }]]></component>
   <component name="SharedIndexes">
